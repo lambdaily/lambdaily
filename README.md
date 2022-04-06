@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Kotlin, Node**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lambdaily](https://github.com/lambdaily)
+- 👨‍💻 👯 I’m looking to collaborate on Web Development projects
 
 - 📝 I regularly write articles on [lambdaily.miblog](lambdaily.miblog)
 
