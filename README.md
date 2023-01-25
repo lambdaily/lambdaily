@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lambdaily&label=Profile%20views&color=0e75b6&style=flat" alt="lambdaily" /> </p>
 
-- 🔭 I’m currently working on **Cerocinco**
 
 - 🌱 I’m currently learning **React, Kotlin, Node**
 
