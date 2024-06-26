@@ -1,7 +1,9 @@
 
+
 <h1 align="center">Hi 👋, I'm Pablo Espinoza</h1>
+
 <h3 align="center">A web developer from Paraguay</h3>
-<p align="left"> website: https://lambdaily.github.io/3dpablo/</p>
+<p align="left"> **Website:** https://lambdaily.github.io/3dpablo/</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lambdaily&label=Profile%20views&color=0e75b6&style=flat" alt="lambdaily" /> </p>
 
 
@@ -9,7 +11,7 @@
 
 - 👨‍💻 👯 I’m looking to collaborate on Web Development projects
 
-- 📝 I regularly write articles on [lambdaily.miblog](lambdaily.miblog)
+- 📝 I regularly write articles on [medium](https://medium.com/@pablo.espinoza.mail)
 
 - 📫 How to reach me **pablo.espinoza.mail@gmail.com**
 
@@ -18,12 +20,9 @@
 <a href="https://www.linkedin.com/in/pablo-cesar-espinoza-lambdaily/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-cesar-espinoza-lambdaily/" height="30" width="40" /></a>
 </p>
 
-![text - copia](https://github.com/lexzer42/lexzer42/assets/134535937/5aca03ec-aed0-48c7-8fd0-f326835433bb)
-![text] Pablo
-
 
 # 💫 About Me:
-Web Full Stack Developer, with experience in developing web and machine learning.
+Web Full Stack Developer, with experience in developing web and machine learning with python.
 
 
 ## 📝 Blog's I use
@@ -104,7 +103,7 @@ Web Full Stack Developer, with experience in developing web and machine learning
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ## 🕓 Version Control
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
