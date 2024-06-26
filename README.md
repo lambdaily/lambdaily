@@ -117,10 +117,9 @@ Web Full Stack Developer, with experience in developing web and machine learning
 
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lambdaily&show_icons=true&locale=en" alt="lambdaily" /></p>
-[&nbsp;<div align="center">
+&nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/astragant97)
-</div>](https://github.com/astragant97)
-
+</div>
 
 
 
