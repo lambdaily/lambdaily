@@ -117,7 +117,7 @@ Web Full Stack Developer, with experience in developing web and machine learning
 
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lambdaily&show_icons=true&locale=en" alt="lambdaily" /></p>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=astragant97&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=astragant97&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 
 
