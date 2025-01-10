@@ -17,7 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pablo-cesar-espinoza-lambdaily/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-cesar-espinoza-lambdaily/" height="30" width="40" /></a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=lambdaily&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
 </p>
 
 
