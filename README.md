@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lambdaily&label=Profile%20views&color=0e75b6&style=flat" alt="lambdaily" /> </p>
 
 
-- 🌱 I’m currently learning **React, Kotlin, Node**
+- 🌱 I’m currently learning **Go, React Native, Nest js**
 
 - 👨‍💻 👯 I’m looking to collaborate on Web Development projects
 
